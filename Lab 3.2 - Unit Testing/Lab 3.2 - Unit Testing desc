@@ -1,0 +1,23 @@
+ Development Exercises – Lab 3.2
+Goal: The target of these exercises is to enable the student to practice and master programming skills during the course.
+Instructions: You are required to submit programming assignments. More practice, more mastery. You must upload your code into GITHUB. 
+Rubric Evaluation:
+Complete RIGTH BICEP Analysis for each assignment - Add them as documentation in the code – 50% 
+Working test cases – 50% 
+
+
+For all Exercises in Lab 3.2 use unittest module in python
+1 Given the math.ceil function,
+- Define a set of unit test cases that exercise the function (Remember Right BICEP)
+2 Given the filecmp.cmp function,
+Define a set of test cases that exercise the function (Remember Right BICEP)
+3 Implement a class that manages a directory that is saved in a text file. The data saved includes:
+a. Name
+b. Email
+c. Age
+d. Country of Origin
+The class should have capabilities to:
+- Add new record
+- Delete a record
+- Look for a record by mail and age
+- List on screen all record information
