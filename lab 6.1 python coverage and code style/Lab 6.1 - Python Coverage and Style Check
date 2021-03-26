@@ -1,0 +1,15 @@
+Lab 6.1 - Python Coverage and Style Check
+
+Development Exercises – Lab 6.1
+Goal: The target of these exercises is to enable the student to practice and master programming skills during the course. In this case, the 
+application of code coverage to measure the unit testing progress as well as the style check using known tools.
+Instructions: You are required to submit 
+For all your previous exercises, measure the coverage for your testing. Provide Screenshots for the measurements. Try to achieve at least 90% of 
+Statement Coverage. Get style checking tool and modify your programs at most 2 issues in PEP8 using module pycodestyle. Provide Screenshots 
+as evidence. Upload your modified code into your GitRepo.
+Modules to use: coverage and pycodestyle
+Rubrics:
+ Evidence of code coverage – 50%
+ Achieving code coverage – 20%
+ Evidence of at most 2 PEP8 style issues – 20%
+ Link to the GITHUB Repo
